@@ -1,0 +1,123 @@
+.main-container {
+  margin: 0px 100px;
+}
+
+#box {
+  background-color: #363E97;
+}
+
+.info {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+.form {
+  width: calc(100% - 350px);
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+
+.info p {
+  color: #FFFFFF;
+}
+
+.input-name input, .input-name textarea {
+  text-indent: 10px;
+  width: 100%;
+  height: 60px;
+  color: #FFFFFF;
+  background-color: #363E97;
+}
+.input-name textarea {
+  height: 100px;
+}
+.input-name label {
+  display: block;
+  color: #FFFFFF;
+  margin: 10px 30px;
+}
+
+button {
+  width: 130px;
+  height: 45px;
+  margin: 25px 0px 40px 0px;
+  background-color: #ee4036;
+  color: #FFFFFF;
+}
+
+.input-email input, .input-email textarea {
+  text-indent: 10px;
+  width: 100%;
+  height: 60px;
+  color: #FFFFFF;
+  background-color: #363E97;
+}
+.input-email textarea {
+  height: 100px;
+}
+.input-email label {
+  display: block;
+  color: #FFFFFF;
+  margin: 10px 30px;
+}
+
+button {
+  width: 130px;
+  height: 45px;
+  margin: 25px 0px 40px 0px;
+  background-color: #ee4036;
+  color: #FFFFFF;
+}
+
+.input-subject input, .input-subject textarea {
+  text-indent: 10px;
+  width: 100%;
+  height: 60px;
+  color: #FFFFFF;
+  background-color: #363E97;
+}
+.input-subject textarea {
+  height: 100px;
+}
+.input-subject label {
+  display: block;
+  color: #FFFFFF;
+  margin: 10px 30px;
+}
+
+button {
+  width: 130px;
+  height: 45px;
+  margin: 25px 0px 40px 0px;
+  background-color: #ee4036;
+  color: #FFFFFF;
+}
+
+.input-message input, .input-message textarea {
+  text-indent: 10px;
+  width: 100%;
+  height: 60px;
+  color: #FFFFFF;
+  background-color: #363E97;
+}
+.input-message textarea {
+  height: 100px;
+}
+.input-message label {
+  display: block;
+  color: #FFFFFF;
+  margin: 10px 30px;
+}
+
+button {
+  width: 130px;
+  height: 45px;
+  margin: 25px 0px 40px 0px;
+  background-color: #ee4036;
+  color: #FFFFFF;
+}
